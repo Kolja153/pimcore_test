@@ -1,0 +1,14 @@
+pimcore:
+    documents:
+        doc_types:
+            definitions:
+                08d02d28-7944-4c9c-9129-fc786c5ed2e4:
+                    name: 'New Document Type'
+                    group: ''
+                    controller: null
+                    template: null
+                    type: page
+                    priority: 0
+                    creationDate: 1713511771
+                    modificationDate: 1713511775
+                    staticGeneratorEnabled: false

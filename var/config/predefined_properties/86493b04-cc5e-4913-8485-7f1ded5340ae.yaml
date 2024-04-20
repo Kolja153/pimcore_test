@@ -1,0 +1,15 @@
+pimcore:
+    properties:
+        predefined:
+            definitions:
+                86493b04-cc5e-4913-8485-7f1ded5340ae:
+                    name: null
+                    description: null
+                    key: null
+                    type: null
+                    data: null
+                    config: null
+                    ctype: null
+                    inheritable: false
+                    creationDate: 1713454224
+                    modificationDate: 1713454224
